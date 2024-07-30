@@ -9,5 +9,3 @@ Meu nome é Guilherme Conte
 ### Você pode entrar em contato comigo
 
 00001110829735SP@al.educacao.sp.gov.br
-
-![descrição do GIF](link GIF do Tenor)
